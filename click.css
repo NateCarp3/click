@@ -1,0 +1,23 @@
+#num
+{
+    width: 25px;
+}
+.cont
+{
+    border: 3px solid black;
+    margin-right: 550px;
+    padding: 50px;
+}
+#count
+{
+    margin: 30px;
+}
+#butt
+{
+    width: 100px;
+    height: 50px;
+}
+.toprow
+{
+    display: flex;
+}

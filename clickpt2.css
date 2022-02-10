@@ -1,0 +1,75 @@
+.net
+{
+    font-size: 50px;
+    width: 1000px;
+    background-color: black;
+    color: azure;    
+}
+.yf
+{
+    font-size: 30px;
+
+}
+.lb
+{
+    border: 3px solid black;
+    padding: 20px;
+    margin-right: 200px;
+    margin-bottom: 400px;
+}
+.usr
+{
+    width: 50px;
+}
+.rbtop
+{
+    display: flex;
+    justify-content: space-around;
+}
+#count
+{
+    display: flex;
+    
+}
+.bb
+{
+    display: flex;
+}
+.rb1
+{
+    border: 3px solid black;
+    padding: 20px;
+}
+.rbtop2
+{
+    display:flex;
+    justify-content: space-around;
+}
+.rb2 
+{
+    border: 3px solid black;
+    padding: 20px;
+
+}
+.rb3
+{
+    border: 3px solid black;
+    padding: 20px;
+
+}
+.rbtop3
+{
+    display: flex;
+    justify-content: space-around;
+}
+.column
+{
+    margin-top: 20px;
+    justify-content: space-around;
+
+}
+.rb2
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
